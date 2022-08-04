@@ -1,0 +1,8 @@
+/* button */
+
+.button {
+  background-color: olive;
+  border-radius: 2px;
+  padding: 8px 16px;
+  border: 1px solid rgb(255, 255, 255);
+}

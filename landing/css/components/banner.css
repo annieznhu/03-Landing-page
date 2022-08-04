@@ -1,0 +1,39 @@
+/* banner */
+
+.banner {
+  background-image: url(../../images/siargao.jpeg);
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+  position: center;
+}
+.banner h1 {
+  color:white;
+}
+
+.banner p {
+  color: white;
+  opacity: .8;
+  font-size: 20px;
+}
+
+.banner a{
+  color: white;
+}
+
+.container2 {
+  color: white;
+}
+
+.container2 h2 {
+  color: lightslategray;
+  text-align: center;
+}

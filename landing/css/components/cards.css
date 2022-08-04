@@ -1,0 +1,49 @@
+/* cards */
+
+.cards {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  align-items: center;
+}
+
+.imges{
+  height: 40vh;
+  width: 90%;
+}
+.card1 {
+text-align: center;
+}
+
+.card3 {
+  text-align: center;
+  }
+
+.card2 {
+  text-align: center;
+  }
+.card1 h3 {
+  color: black;
+}
+.card1 p {
+  color: black;
+  opacity: .8px;
+}
+
+.card2 h3 {
+  color: black;
+}
+
+.card2 p {
+  color: black;
+  opacity: .8px;
+}
+
+.card3 h3 {
+  color: black;
+}
+
+.card3 p {
+  color: black;
+  opacity: .8px;
+}
